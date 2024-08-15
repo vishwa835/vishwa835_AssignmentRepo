@@ -5,7 +5,7 @@ This repository contains a collection of basic Solidity smart contracts organize
 ## Folder Structure
 
 
-- [Assignment2](Assigment2)
+- [Assignment2](Assignment2)
   - Contract names:
     - q1.sol
     - q2.sol
