@@ -7,13 +7,13 @@ This repository contains a collection of basic Solidity smart contracts organize
 
 - [Assignment2](Assignment2)
   - Contract names:
-    - q1.sol
-    - q2.sol
-    - q3.sol
-    - q4.sol
-    - q5.sol
-    - q6.sol
-    - q7.sol
-    - q8.sol
-    - q9.sol
-    - q10.sol
+    - Hello World Contract
+    - Simple Storage Contract
+    - Greeting Contract
+    - Simple Counter Contract
+    - Name Storage Contract
+    - Basic Voting Contract
+    - Owner Access Contract
+    - Event Logging Contract
+    - Simple Ledger Contract
+    - Message Storage Contract
