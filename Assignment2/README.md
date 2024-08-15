@@ -26,7 +26,7 @@ This Assignment contains a collection of basic Solidity smart contracts, each de
 
 6. **Basic Voting**
    - **Description:** Allows users to vote for a candidate and keeps track of votes.
-   - **File:** [q6.sol](/q6.sol)
+   - **File:** [q6.sol](q6.sol)
 
 7. **Owner Access**
    - **Description:** Restricts certain functions to only the contract owner.
@@ -38,7 +38,7 @@ This Assignment contains a collection of basic Solidity smart contracts, each de
 
 9. **Simple Ledger**
    - **Description:** Maintains a ledger of transactions with basic entries.
-   - **File:** [q9.sol]/q9.sol)
+   - **File:** [q9.sol](q9.sol)
 
 10. **Message Storage**
     - **Description:** Allows a user to store and retrieve a message string.
