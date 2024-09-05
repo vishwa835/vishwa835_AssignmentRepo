@@ -18,3 +18,7 @@ This repository contains a collection of basic Solidity smart contracts organize
     - Event Logging Contract
     - Simple Ledger Contract
     - Message Storage Contract
+
+- [Assignment3](Assignment3)
+  - Contract names:
+    - Lottery System Smart Contract   
