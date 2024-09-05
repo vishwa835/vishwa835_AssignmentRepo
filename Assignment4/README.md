@@ -16,8 +16,12 @@ This Assignment contains a collection of basic Solidity smart contracts, each de
 3. **Finding a Nonce for a Given Input**
    - **Description:** Finds a nonce for a given input string such that the resulting SHA-256 hash starts with a specified prefix.
    - **File:** [q3.sol](q3.sol)
+  
+4. **Finding a Nonce for a Given Input**
+   - **Description:** Finds a nonce for a given input string such that the resulting SHA-256 hash starts with a specified prefix.
+   - **File:** [q4.png](q4.png)
 
 5. **Donation Smart Contract**
    - **Description:** Allows individuals to donate Ether to the contract and the owner to transfer the collected donations to various recipients.
-   - **File:** [q4.sol](q4.sol)
+   - **File:** [q5.sol](q5.sol)
 
