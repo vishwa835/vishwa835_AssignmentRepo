@@ -17,8 +17,8 @@ This Assignment contains a collection of basic Solidity smart contracts, each de
    - **Description:** Finds a nonce for a given input string such that the resulting SHA-256 hash starts with a specified prefix.
    - **File:** [q3.sol](q3.sol)
   
-4. **Finding a Nonce for a Given Input**
-   - **Description:** Finds a nonce for a given input string such that the resulting SHA-256 hash starts with a specified prefix.
+4. **Making the Zombie Factory**
+   - **Description:** Making the Zombie Factory At [cryptoZombies](https://cryptozombies.io).
    - **File:** [q4.png](q4.png)
 
 5. **Donation Smart Contract**
