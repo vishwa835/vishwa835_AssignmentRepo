@@ -1,0 +1,80 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "inputStr",
+						"type": "string"
+					},
+					{
+						"internalType": "bytes",
+						"name": "prefix",
+						"type": "bytes"
+					},
+					{
+						"internalType": "uint256",
+						"name": "maxIterations",
+						"type": "uint256"
+					}
+				],
+				"name": "findNonce",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Assignment4/q3.sol": "FindNonce"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Assignment4/q3.sol": {
+			"keccak256": "0x152a83044117841c91600d50476469e6cf6a0b40ae95fa0458c3c280b4f7fa74",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8118b8b41fe4c87155e736962000a91812d6719d119c66ab8adc2929eb22bca1",
+				"dweb:/ipfs/QmW7H4kuudqRJHp4yHA828cvVoiMz7YbpF2M1QGrphndco"
+			]
+		}
+	},
+	"version": 1
+}
