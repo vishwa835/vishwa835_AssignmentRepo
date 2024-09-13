@@ -23,7 +23,6 @@ This repository contains a collection of basic Solidity smart contracts organize
   - Contract names:
     - Lottery System Smart Contract
 
-   
 - [Assignment4](Assignment4)
   - Contract names:
     - SHA-256 Hash with Specific Prefix
@@ -31,3 +30,8 @@ This repository contains a collection of basic Solidity smart contracts organize
     - Finding a Nonce for a Given Input
     - Making the Zombie Factory
     - Donation Smart Contract
+
+- [Assignment3](Assignment3)
+  - Contract names:
+    - Crowdfunding Contract
+    - Voting System Contract
