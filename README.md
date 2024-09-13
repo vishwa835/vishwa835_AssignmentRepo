@@ -18,3 +18,16 @@ This repository contains a collection of basic Solidity smart contracts organize
     - Event Logging Contract
     - Simple Ledger Contract
     - Message Storage Contract
+
+- [Assignment3](Assignment3)
+  - Contract names:
+    - Lottery System Smart Contract
+
+   
+- [Assignment4](Assignment4)
+  - Contract names:
+    - SHA-256 Hash with Specific Prefix
+    - SHA-256 Hash with Specific Starting String
+    - Finding a Nonce for a Given Input
+    - Making the Zombie Factory
+    - Donation Smart Contract
