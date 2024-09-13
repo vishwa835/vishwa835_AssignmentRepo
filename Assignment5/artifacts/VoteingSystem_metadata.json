@@ -1,0 +1,115 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "C_name",
+						"type": "string"
+					}
+				],
+				"name": "CreateProposal",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_ProposalId",
+						"type": "uint256"
+					}
+				],
+				"name": "HowMuchVoteCandidateHas",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_ProposalId",
+						"type": "uint256"
+					}
+				],
+				"name": "VoteForSomeOne",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "WhoIsWinner",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Assignment5/q2.sol": "VoteingSystem"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Assignment5/q2.sol": {
+			"keccak256": "0x9758c5a06db49eebf3a87d4d4e9b12452fa5c32042e674294b46f0ec335f76f9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7158a8b8eacfe36819bfa7821ade88baba1fdf932585282624ff051e92d77b68",
+				"dweb:/ipfs/QmVDjuN8RUnEmu31qpbArPfLAgrECLV8AWfXajQr8geV5g"
+			]
+		}
+	},
+	"version": 1
+}
