@@ -31,7 +31,7 @@ This repository contains a collection of basic Solidity smart contracts organize
     - Making the Zombie Factory
     - Donation Smart Contract
 
-- [Assignment3](Assignment3)
+- [Assignment5](Assignment5)
   - Contract names:
     - Crowdfunding Contract
     - Voting System Contract
